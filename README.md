@@ -28,6 +28,9 @@ The lab was designed to replicate common attack techniques used by adversaries a
 * Map attack techniques to the MITRE ATT&CK Framework
 * Create incident response workflows
 
+  <img width="1536" height="1024" alt="arch" src="https://github.com/user-attachments/assets/bb35fbe1-c0e6-4ca4-8d3d-3208c36c5a23" />
+
+
 ---
 
 # 🏗️ Lab Architecture
