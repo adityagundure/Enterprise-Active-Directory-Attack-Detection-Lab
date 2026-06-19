@@ -512,6 +512,7 @@ Active forwards:
 * Privilege Escalation Detection
 
 ---
+<img width="1918" height="997" alt="Screenshot 2026-06-19 082426" src="https://github.com/user-attachments/assets/f2f5f052-dd6c-434f-9286-b6f192693576" />
 
 # Author
 
